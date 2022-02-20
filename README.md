@@ -1,33 +1,18 @@
-# TASK-NAME
+# Variables 🧶
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+Create some variables to define your `firstName`, `lastName`, `age`, `height`.
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+Then, print these variables.
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+Example for John, Doe, 24, 1.78, the console log should read:
 
-![screenshot](https://tenor.com/xNjE.gif)
+```
+John
+Doe
+24
+1.78
+```
 
+### 🍋 booleans
 
-### 🍋 The basic challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🤼‍♂️ The hard challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+Create another variable called `married` which it's value is either `true` or `false`.
