@@ -1,4 +1,4 @@
-# Variables 🧶
+###🍋 Variables 
 
 Create some variables to define your `firstName`, `lastName`, `age`, `height`.
 
@@ -13,11 +13,11 @@ Doe
 1.78
 ```
 
-### 🍋 booleans
+### 🤼‍♂️ booleans
 
 Create another variable called `married` which it's value is either `true` or `false`.
 
-# String Interpolation ➕
+### 🍋 String Interpolation ➕
 
 Given the following variables:
 
@@ -42,7 +42,7 @@ For example, if temperature is 30, the output should print:
 The temperature is 30C
 ```
 
-### 🍋 Arithmetic spice
+### 🤼‍♂️ Arithmetic spice
 
 Create a new variable called `number` of type `int`:
 
@@ -56,7 +56,7 @@ And achieve this output in the console:
 5 plus 5 makes 10
 ```
 
-# String Methods 🔧
+### 🍋 String Methods 🔧
 
 Given 1 variable
 
@@ -70,7 +70,7 @@ Using string methods achieve this output:
 My name is  JOHN and my last name length is 3
 ```
 
-### 🍋 White Spaces
+### 🤼‍♂️ White Spaces
 
 Open those [docs](https://api.dart.dev/stable/2.16.1/dart-core/String-class.html) and look for a string method that will get rid of the white spaces for us to achieve this output:
 
