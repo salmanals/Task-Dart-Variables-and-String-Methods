@@ -13,7 +13,7 @@ Doe
 1.78
 ```
 
-### 🤼‍♂️ booleans
+### 🤼‍♂️ Booleans
 
 Create another variable called `married` which it's value is either `true` or `false`.
 
