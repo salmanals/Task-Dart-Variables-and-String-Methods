@@ -1,3 +1,7 @@
+### Setup
+1. Fork and clone [this repo](https://github.com/JoinCODED/Task-Dart-Variables-and-String-Methods/).
+2. Write your code in `main.dart`.
+
 ### 🍋 Variables 
 
 Create some variables to define your `firstName`, `lastName`, `age`, `height`.
